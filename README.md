@@ -56,7 +56,6 @@ $ git push origin lab
 ```
 $ cmake -H. -B_build
 $ cmake --build _build
-
 ```
 
 # Task 2
